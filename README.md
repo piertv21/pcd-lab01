@@ -16,7 +16,7 @@ PCD a.y. 2024-2025 - ISI LM UNIBO - Cesena Campus
 	- Consequences (constraints/discipline)
 		- no public methods for active components
 		- protected and private methods to modularise (internal) actions
-- **Worl-in-Lab #1**
+- **Work-in-Lab #1**
 	- Preparation
 		- Consider the `pcd.lab01.ex01` example 
 			- `Screen`class based on [JANSI library](https://github.com/fusesource/jansi)
